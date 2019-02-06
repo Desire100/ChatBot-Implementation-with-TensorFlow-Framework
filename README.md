@@ -11,4 +11,4 @@ DATA PREPROCESSING:
 
 2. PART TWO - BUILDING A SEQ2SEQ MODEL:
 
-              In this part we have built the archetecture of our seq2seq model by using tensorflow library.
+      In this part we built the  archetecture of our seq2seq model by using tensorflow library.
